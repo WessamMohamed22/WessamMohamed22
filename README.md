@@ -71,7 +71,7 @@ Database/State
 ![](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![]()
 
 
@@ -79,7 +79,6 @@ Backend
 
 ![node js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![](https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
 ![]()
 
 
@@ -89,13 +88,7 @@ Web Hosting
 ![](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![](https://camo.githubusercontent.com/a4b70cffa0f4df7373282aefff4d3a028e34f98a32576efbc66ecdb9b5532097/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d47697448756225323050616765732d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562)
 ![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![](https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)
-![]()
 
-Package Manager
-
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![]()
 
 
@@ -104,8 +97,7 @@ Version Control
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
 ![Git Lab](https://img.shields.io/badge/GitLab-FC6D26.svg?style=for-the-badge&logo=GitLab&logoColor=white)
-![BitBucket](https://img.shields.io/badge/Bitbucket-0052CC.svg?style=for-the-badge&logo=Bitbucket&logoColor=white)
-![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white)
+
 
 
 
@@ -115,7 +107,6 @@ Version Control
 
 ## Thanks for Visiting my GitHub Profile!
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=nohamostafa123&show_icons=true&locale=en&layout=compact)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs?username=WessamMohamed22&show_icons=true&locale=en&layout=compact)
 
 
-[![Profile View](https://visitcount.itsvg.in/api?id=nohamostafa123&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
