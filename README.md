@@ -15,7 +15,7 @@
 - 🚀 How to reach me: wm8821730@gmail.com
 
 
-I have great experience of building user-friendly dynamic & responsive web applications. With my extensive understanding in JavaScript, Reactjs, NodeJS, other programming languages such as C++,java,python I have put great contribution in different projects.
+I have great experience of building user-friendly dynamic & responsive web applications. With my extensive understanding in JavaScript, Reactjs, NodeJS, other programming languages such as C++ , java and python I have put great contribution in different projects.
 
 ### Connect with me:
 <p align="center">
