@@ -11,7 +11,7 @@
 #### I love building the real world products.👨‍💻
 - ✨ I’m currently working on different Coding Challenges
 - 🌱 I’m currently learning FrontEnd Development
-- 👯 I’m looking to collaborate on open source projects
+- ✨ I’m looking to collaborate on open source projects
 - 🚀 How to reach me: wm8821730@gmail.com
 
 
