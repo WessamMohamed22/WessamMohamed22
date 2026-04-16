@@ -6,17 +6,17 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7243C&width=435&lines=Full-Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+Next.js;Always+learning+new+things" alt="Typing SVG" /> </a> </p>
 
-####👨‍💻 About Me
-✨ Full-Stack Developer (MERN Stack)
-🎓 NTI Open Source Development Graduate
-🚀 Passionate about building scalable, real-world web applications
+👨‍💻 About Me
+-✨ Full-Stack Developer (MERN Stack)
+-🎓 NTI Open Source Development Graduate
+-🚀 Passionate about building scalable, real-world web applications
 
 I enjoy turning ideas into real products using modern web technologies and clean architecture principles.
 
-🌱 Currently learning advanced backend architecture & performance optimization
-🧠 Exploring system design, scalability & real-time systems
-🤝 Open to collaborating on impactful open-source projects
-📫 How to reach me: wm8821730@gmail.com
+-🌱 Currently learning advanced backend architecture & performance optimization
+-🧠 Exploring system design, scalability & real-time systems
+-🤝 Open to collaborating on impactful open-source projects
+-📫 How to reach me: wm8821730@gmail.com
 
 
 I have great experience of building user-friendly dynamic & responsive web applications. With my extensive understanding in JavaScript, Reactjs, NodeJS, MongoDB other programming languages such as C++ , java and python I have put great contribution in different projects.
